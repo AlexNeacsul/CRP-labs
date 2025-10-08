@@ -1,1 +1,2 @@
 # CRP-labs
+This repository contains my **labs and homework assignments for Cryptology**, covering both theoretical and practical aspects of modern cryptography and cryptanalysis. It includes implementations of classical ciphers, symmetric and asymmetric encryption algorithms, hashing methods, and various cryptographic protocols, all developed to explore the principles of data security and encryption.
